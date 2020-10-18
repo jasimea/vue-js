@@ -4,6 +4,8 @@
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <Navbar />
     <Sidebar/>
+    
+    <!-- When click on the button of Input component the event should be triggered in this component and log the data -->
     <Input />
   </div>
 </template>
